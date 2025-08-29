@@ -1,0 +1,24 @@
+{
+  "name": "Tu Nombre Aquí",
+  "role": "Desarrollador Full Stack",
+  "bio": "Desarrollador apasionado por crear soluciones tecnológicas innovadoras y eficientes. Me especializo en desarrollo web moderno con experiencia en múltiples tecnologías y frameworks.",
+  "location": "Tu Ciudad, País",
+  "avatar": "/assets/avatar.jpg",
+  "email": "tu.email@ejemplo.com",
+  "social": {
+    "github": "https://github.com/tu-usuario",
+    "linkedin": "https://linkedin.com/in/tu-perfil",
+    "twitter": "https://twitter.com/tu-usuario",
+    "website": "https://tu-sitio-web.com"
+  },
+  "ctaText": "Ver mis proyectos",
+  "sectionOrder": ["home", "skills", "projects", "contact"],
+  "primaryColor": "blue",
+  "accentColor": "emerald",
+  "seo": {
+    "title": "Tu Nombre - Desarrollador Full Stack",
+    "description": "Portafolio dinámico de desarrollador con proyectos y habilidades detectadas automáticamente desde GitHub",
+    "keywords": "desarrollador, full stack, react, typescript, javascript, portfolio",
+    "ogImage": "/assets/og-image.jpg"
+  }
+}
